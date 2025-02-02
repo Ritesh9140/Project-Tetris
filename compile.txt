@@ -1,0 +1,1 @@
+g++ -lncurses src/main.cpp src/tetromino.cpp src/game.cpp -o tetris
